@@ -1,0 +1,127 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "1",
+                        "startOffsets": "211",
+                        "endLines": "9",
+                        "endColumns": "9",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "192"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "168",
+                        "endLines": "8",
+                        "endColumns": "9",
+                        "endOffsets": "291"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "178"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,-1",
+                        "startColumns": "1,-1",
+                        "startOffsets": "53,-1",
+                        "endColumns": "39,-1",
+                        "endOffsets": "91,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "169,212",
+                        "endColumns": "42,52",
+                        "endOffsets": "207,260"
+                    }
+                },
+                {
+                    "source": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "6,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "265,339",
+                        "endLines": "8,11",
+                        "endColumns": "9,9",
+                        "endOffsets": "334,397"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "191",
+                        "endColumns": "55",
+                        "endOffsets": "245"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

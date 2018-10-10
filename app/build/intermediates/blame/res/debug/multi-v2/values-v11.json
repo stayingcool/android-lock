@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/ahmni01/learn/android/lock_1/cw-omnibus/MiscUI/DelayedTimeout/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "168",
+                        "endLines": "8",
+                        "endColumns": "9",
+                        "endOffsets": "291"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "178"
+                    }
+                }
+            ]
+        }
+    ]
+}
